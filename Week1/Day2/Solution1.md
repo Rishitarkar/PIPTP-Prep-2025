@@ -3,7 +3,7 @@ Here's the **pseudocode** for Q2 from the image:
 
 ---
 
-### ✅ **Pseudocode:**
+###  **Pseudocode:**
 
 ```plaintext
 1. Integer a
@@ -16,7 +16,7 @@ Here's the **pseudocode** for Q2 from the image:
 
 ---
 
-### ✅ **Step-by-step Execution:**
+###  **Step-by-step Execution:**
 
 * Initial: `a = 1`
 * **1st Iteration:** `a = 1 + 2 = 3` → `3 < 5` → true
@@ -24,7 +24,7 @@ Here's the **pseudocode** for Q2 from the image:
 
 ---
 
-### ✅ **Loop executed:** 2 times
+###  **Loop executed:** 2 times
 
 ---
 
