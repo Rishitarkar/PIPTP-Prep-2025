@@ -19,7 +19,7 @@ Welcome to my Post-Immersion Practice-Only Training Program repository. This rep
 
 | Week | Completion % | Comments |
 |------|---------------|----------|
-| [Week 1](https://github.com/amirkhan1092/PIPTP-Prep-2025/tree/main/Week1) | `✅ / ❌ / 50%` | ... |
+| [Week 1](https://github.com/amirkhan1092/PIPTP-Prep-2025/tree/main/Week1) | `7✅ / 3❌ / 70%` | ... |
 | [Week 2](https://github.com/amirkhan1092/PIPTP-Prep-2025/tree/main/Week2) | `✅ / ❌ / 50%` | ... |
 | [Week 3](https://github.com/amirkhan1092/PIPTP-Prep-2025/tree/main/Week3) | `✅ / ❌ / 50%` | ... |
 | [Week 4](https://github.com/amirkhan1092/PIPTP-Prep-2025/tree/main/Week4) | `✅ / ❌ / 50%` | ... |
