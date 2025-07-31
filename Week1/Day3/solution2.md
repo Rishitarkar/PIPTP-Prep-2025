@@ -32,7 +32,7 @@ funm(Integer a, Integer b)
 
 ### 🔁 Loop 1: `c = 2`
 
-* `a mod 2 = 1`, `b mod 3 = 2` → `1 < 2` ✅
+* `a mod 2 = 1`, `b mod 3 = 2` → `1 < 2` true
 * So: `a = 4 mod 3 = 1`
   ➡ Now: `a = 1`, `b = 5`
 
@@ -40,7 +40,7 @@ funm(Integer a, Integer b)
 
 ### 🔁 Loop 2: `c = 3`
 
-* `a mod 2 = 1`, `b mod 3 = 2` → `1 < 2` ✅
+* `a mod 2 = 1`, `b mod 3 = 2` → `1 < 2` true
 * So: `a = 4 mod 3 = 1`
   ➡ Still: `a = 1`, `b = 5`
 
@@ -48,7 +48,7 @@ funm(Integer a, Integer b)
 
 ### 🔁 Loop 3: `c = 4`
 
-* `a mod 2 = 1`, `b mod 3 = 2` → `1 < 2` ✅
+* `a mod 2 = 1`, `b mod 3 = 2` → `1 < 2` true
 * So: `a = 4 mod 3 = 1`
   ➡ Still: `a = 1`, `b = 5`
 
