@@ -1,3 +1,4 @@
+<img width="1090" height="504" alt="Screenshot 2025-07-31 at 1 29 39 PM" src="https://github.com/user-attachments/assets/cf3b783a-a79f-4ebe-9ec4-16b472fe0542" />
 Let's evaluate the pseudocode step-by-step with the inputs **`a = 8`, `b = 8`**.
 
 ---
