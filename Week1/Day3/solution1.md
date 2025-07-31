@@ -3,7 +3,7 @@ Let's analyze the pseudocode step by step:
 
 ---
 
-### 🧠 **Pseudocode:**
+###  **Pseudocode:**
 
 ```plaintext
 1. Integer a, b
@@ -19,7 +19,7 @@ Let's analyze the pseudocode step by step:
 
 ---
 
-### ✅ **Step-by-Step Execution:**
+###  **Step-by-Step Execution:**
 
 * `1 ^ 1` = `0` → because XOR of two same bits is `0`.
 * So, the `if` condition is **false**, and the `else` block runs.
@@ -30,8 +30,8 @@ Now:
 * `a = 3`
 * `b = 2`
 
-### ➕ Final Output = `a + b = 3 + 2 = 5`
+###  Final Output = `a + b = 3 + 2 = 5`
 
 ---
 
-### ✅ Correct Answer: **Option C: 5** ✅
+###  Correct Answer: **Option C: 5** 
