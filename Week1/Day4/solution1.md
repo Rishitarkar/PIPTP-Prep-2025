@@ -3,7 +3,7 @@ Let's analyze the pseudocode with inputs `a = 4` and `b = 3`:
 
 ---
 
-### 🔢 Pseudocode Summary:
+###  Pseudocode Summary:
 
 ```text
 function funn(a, b):
@@ -19,7 +19,7 @@ So the **base case** is when `a <= 0`, it returns `a + b` (which becomes `2*b` s
 
 ---
 
-### 🧮 Let's compute `funn(4, 3)` step-by-step:
+###  compute `funn(4, 3)` step-by-step:
 
 **Step 1: funn(4,3)**
 → `a > 0`, so:
@@ -30,7 +30,7 @@ So the **base case** is when `a <= 0`, it returns `a + b` (which becomes `2*b` s
 
 ---
 
-### 🔹 Compute `funn(2,7)`
+###  Compute `funn(2,7)`
 
 ```
 = funn(0,9) + funn(-1,9) + funn(-2,9)
@@ -44,7 +44,7 @@ So the **base case** is when `a <= 0`, it returns `a + b` (which becomes `2*b` s
 
 ---
 
-### 🔹 Compute `funn(1,7)`
+###  Compute `funn(1,7)`
 
 ```
 = funn(-1,8) + funn(-2,8) + funn(-3,8)
@@ -56,13 +56,13 @@ So the **base case** is when `a <= 0`, it returns `a + b` (which becomes `2*b` s
 
 ---
 
-### 🔹 Compute `funn(0,7)`
+###  Compute `funn(0,7)`
 
 → base case → return `2 * 7 = 14`
 
 ---
 
-### ✅ Final Answer:
+###  Final Answer:
 
 ```
 funn(4,3) = 54 + 48 + 14 = 116
@@ -70,4 +70,4 @@ funn(4,3) = 54 + 48 + 14 = 116
 
 ---
 
-### ✔️ Correct Option: **A. 116**
+### ✔ Correct Option: **A. 116**
