@@ -1,3 +1,4 @@
+<img width="1098" height="582" alt="Screenshot 2025-07-31 at 1 35 34 PM" src="https://github.com/user-attachments/assets/d2f94997-333a-499a-ac28-9809fd4b2452" />
 Let's analyze the pseudocode step by step:
 
 ---
