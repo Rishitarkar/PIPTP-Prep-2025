@@ -1,3 +1,4 @@
+<img width="1440" height="883" alt="Screenshot 2025-07-31 at 1 18 25 PM" src="https://github.com/user-attachments/assets/2f8c0e57-5340-4d33-9d0c-0182a722ab07" />
 Let's break down the **pseudocode** from the image step by step and **convert it into proper pseudocode format**:
 
 ---
