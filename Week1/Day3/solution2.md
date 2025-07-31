@@ -1,3 +1,4 @@
+![Uploading Screenshot 2025-07-31 at 1.40.41 PM.png…]()
 Great! Let's simulate the pseudocode with:
 
 > `a = 7`, `b = 5`
