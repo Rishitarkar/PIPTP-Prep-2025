@@ -1,3 +1,4 @@
+<img width="1090" height="644" alt="Screenshot 2025-07-31 at 1 23 05 PM" src="https://github.com/user-attachments/assets/2b50f94c-ff6e-4281-9c98-55ccb7103efc" />
 Here's the **pseudocode** for Q2 from the image:
 
 ---
