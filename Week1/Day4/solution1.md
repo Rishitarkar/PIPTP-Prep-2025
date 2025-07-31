@@ -1,3 +1,4 @@
+<img width="1098" height="505" alt="Screenshot 2025-07-31 at 1 48 04 PM" src="https://github.com/user-attachments/assets/181a09be-7474-49c1-be43-f6b34e77b909" />
 Let's analyze the pseudocode with inputs `a = 4` and `b = 3`:
 
 ---
