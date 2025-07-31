@@ -3,7 +3,7 @@ Let's evaluate the pseudocode step-by-step with the inputs **`a = 8`, `b = 8`**.
 
 ---
 
-### ✅ **Pseudocode Summary:**
+###  **Pseudocode Summary:**
 
 ```plaintext
 fun(a, b):
@@ -14,7 +14,7 @@ fun(a, b):
 
 ---
 
-### ✅ **Breakdown (with recursion):**
+###  **Breakdown (with recursion):**
 
 We call: `fun(8, 8)`
 
@@ -37,6 +37,6 @@ Now resolve back:
 
 ---
 
-### ✅ Final Answer:
+###  Final Answer:
 
-**Option D: 40** ✅
+**Option D: 40** 
