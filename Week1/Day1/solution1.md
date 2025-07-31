@@ -1,6 +1,6 @@
 
 
-### ✅ **Question (Problem Statement)**
+###  **Question (Problem Statement)**
 
 Write a function `fun(w, x)` that performs the following:
 
@@ -16,7 +16,7 @@ Write a function `fun(w, x)` that performs the following:
 
 ---
 
-### 🧠 **Pseudo Code**
+###  **Pseudo Code**
 
 ```
 FUNCTION fun(w, x)
@@ -36,7 +36,7 @@ CALL fun(40, 4)
 
 ---
 
-### 🔍 **Step-by-Step Analysis**
+###  **Step-by-Step Analysis**
 
 Calling: `fun(40, 4)`
 
@@ -45,8 +45,8 @@ Calling: `fun(40, 4)`
 
 Check condition:
 
-* `x % w == 0` → `4 % 40 == 4` → ❌ False
-* `w % x == 0` → `40 % 4 == 0` → ✅ True
+* `x % w == 0` → `4 % 40 == 4` →  False
+* `w % x == 0` → `40 % 4 == 0` →  True
 
 Since one of the conditions is true, the `if` block executes:
 
@@ -64,7 +64,7 @@ So:
 
 ---
 
-### 🖨️ **Final Output on Console**
+###  **Final Output on Console**
 
 ```
 1
