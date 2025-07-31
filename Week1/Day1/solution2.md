@@ -3,14 +3,14 @@ Let's break down the **pseudocode** from the image step by step and **convert it
 
 ---
 
-### ✅ **Given Values:**
+###  **Given Values:**
 
 * `w = 40`
 * `x = 4`
 
 ---
 
-### ✅ **Original Pseudocode (from image):**
+###  **Original Pseudocode (from image):**
 
 ```plaintext
 1. void fun(Integer w, Integer x)
@@ -27,7 +27,7 @@ Let's break down the **pseudocode** from the image step by step and **convert it
 
 ---
 
-### ✅ **Execution with Input:**
+###  **Execution with Input:**
 
 ```
 w = 40, x = 4
@@ -54,7 +54,7 @@ Then we print `y`, so the output is:
 
 ---
 
-### ✅ **Final Answer:**
+###  **Final Answer:**
 
 ```
 Option A: 1
