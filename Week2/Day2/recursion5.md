@@ -2,7 +2,7 @@ Here’s the full **solution to Exercise 5**, presented right here in the chat:
 
 ---
 
-### 🧠 **Exercise 5 Statement**
+###  **Exercise 5 Statement**
 
 > Write a recursive function `f` with one positive `int` parameter `n`. The function prints out `2ⁿ − 1` integers in the following pattern:
 
@@ -18,7 +18,7 @@ f(4): 1 2 1 3 1 2 1 4 1 2 1 3 1 2 1
 
 ---
 
-### 🧩 **Pattern Observed**
+###  **Pattern Observed**
 
 Each call to `f(n)`:
 
