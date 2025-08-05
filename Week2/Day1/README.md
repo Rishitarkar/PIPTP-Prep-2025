@@ -6,4 +6,4 @@
 
 ## Problems
 - [Exercise 1](https://github.com/Rishitarkar/PIPTP-Prep-2025/blob/main/Week2/Day1/recursion1.md)
-- Exercise 2
+- [Exercise 2](https://github.com/Rishitarkar/PIPTP-Prep-2025/tree/main/Week2/Day1)
