@@ -25,4 +25,4 @@ sumDigits(456) = 6 + sumDigits(45)
                = 6 + 5 + 4 + 0 = 15
 ```
 
-Let me know if you'd like solutions for Exercises 3 and 4 as well.
+
