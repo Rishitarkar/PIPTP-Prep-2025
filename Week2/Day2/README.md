@@ -3,4 +3,6 @@
 
 ## Problems
 - [Exercise 5](https://github.com/Rishitarkar/PIPTP-Prep-2025/blob/main/Week2/Day2/recursion5.md)
-- Problem 2
+- [Exercise 6](https://github.com/Rishitarkar/PIPTP-Prep-2025/blob/main/Week2/Day2/Recursion6.md)
+- [Exercise 7](https://github.com/Rishitarkar/PIPTP-Prep-2025/blob/main/Week2/Day2/Recursion7.md)
+- [Exercise 8](https://github.com/Rishitarkar/PIPTP-Prep-2025/blob/main/Week2/Day2/Recursion8.md)
