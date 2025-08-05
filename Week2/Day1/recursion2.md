@@ -1,4 +1,4 @@
-### ✅ **Exercise 3: What is returned by `f(5, 3)`?**
+### **Exercise 3: What is returned by `f(5, 3)`?**
 
 Here's the code:
 
